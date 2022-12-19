@@ -27,4 +27,3 @@ spec:
             cpu: 200m
 # [END container_helloapp_deployment]
 # [END gke_manifests_helloweb_deployment_deployment_helloweb]
----
